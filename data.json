@@ -1,12 +1,12 @@
 {
   "instructors": [
     {
-      "id": 1,
-      "avatar_url": "http://google.com",
-      "name": "ftgt34",
-      "birth": 1593561600000,
-      "gender": "F",
-      "services": "rrr,yotio",
+      "id": "1",
+      "avatar_url": "https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/05/6413217-lukecage-1.jpg",
+      "name": "Luke Cage",
+      "birth": 660700800000,
+      "gender": "M",
+      "services": "Marvel,Netflix",
       "created_at": 1594055133878
     },
     {
