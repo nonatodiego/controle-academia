@@ -216,6 +216,12 @@ a.button {
   border-bottom: 1px solid #d9d9d9;
 }
 
+.table-container th {
+  text-transform: uppercase;
+  color: #777777;
+  font-size: 14px;
+}
+
 .table-container tbody tr:last-child td {
   border-bottom: none;
 }
@@ -234,4 +240,19 @@ a.button {
   border-radius: 50%;
   box-sizing: 10px 5px 6px -4px #000000;
   border: 2px solid #ffffff;
+}
+
+.table-container tbody tr td:last-child a {
+  background-color: var(--primary-color);
+  padding: 8px;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-size: 12px;
+  border-radius: 6px;
+}
+
+.table-container  thead tr th:last-child,
+td:last-child {
+  text-align: center;
 }
