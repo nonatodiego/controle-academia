@@ -219,3 +219,19 @@ a.button {
 .table-container tbody tr:last-child td {
   border-bottom: none;
 }
+
+.table-container tbody tr td:first-child {
+  display: grid;
+  grid-template-columns: 64px 1fr;
+  align-items: center;
+}
+
+.table-container tbody tr td:first-child span {
+  width: 48px;
+  height: 48px;
+  background-position: center;
+  background-size: cover;
+  border-radius: 50%;
+  box-sizing: 10px 5px 6px -4px #000000;
+  border: 2px solid #ffffff;
+}
