@@ -1,15 +1,6 @@
 {
   "instructors": [
     {
-      "id": "1",
-      "avatar_url": "https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/05/6413217-lukecage-1.jpg",
-      "name": "Luke Cage",
-      "birth": 660700800000,
-      "gender": "M",
-      "services": "Marvel,Netflix",
-      "created_at": 1594055133878
-    },
-    {
       "id": 2,
       "avatar_url": "https://source.unsplash.com/collection/3465564/500x500",
       "name": "ddde ert",
@@ -29,30 +20,12 @@
     },
     {
       "id": 4,
-      "avatar_url": "http://google.com",
-      "name": "ey35u75i",
+      "avatar_url": "http://google.comffvvv",
+      "name": "joaozao",
       "birth": 946771200000,
-      "gender": "F",
+      "gender": "M",
       "services": "jiu,natação,musculação",
       "created_at": 1594070543565
-    },
-    {
-      "id": 5,
-      "avatar_url": "http://google.com",
-      "name": "diegod",
-      "birth": 1355270400000,
-      "gender": "M",
-      "services": "corrida,natação,js",
-      "created_at": 1594071405160
-    },
-    {
-      "id": 6,
-      "avatar_url": "http://google.com",
-      "name": "joaozin",
-      "birth": 1606780800000,
-      "gender": "M",
-      "services": "corrida,natação,js",
-      "created_at": 1594071468969
     }
   ]
 }

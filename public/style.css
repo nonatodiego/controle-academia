@@ -174,6 +174,7 @@ input::placeholder {
 
 button[type="submit"],
 a.button {
+  /* cursor: pointer; */
   padding: 8px 32px;
   background-color: var(--primary-color);
   color: #ffffff;
@@ -187,4 +188,34 @@ a.button {
   display: block;
   text-align: center;
   text-decoration: none;
+}
+
+#form-delete button[type="submit"]{
+  margin-top: 8px;
+  background-color: lightcoral;
+}
+
+/* ==== INDEX INSTRUCTORS ==== */
+
+.table-container {
+  display: block;
+  padding: 40px;
+  box-sizing: border-box;
+}
+
+.table-container table {
+  border-spacing: 0;
+}
+
+.table-container thead tr th {
+  text-align: left;
+}
+
+.table-container td,th {
+  padding: 16px;
+  border-bottom: 1px solid #d9d9d9;
+}
+
+.table-container tbody tr:last-child td {
+  border-bottom: none;
 }
