@@ -37,8 +37,8 @@ Um projeto que visa criar um sistema de controle para academias onde o usuario p
 - <a href="#">Nunjucks</a>
 - <a href="#">CSS</a>
   - <a href="#">CSS Grid</a>
+- <a href="#">JavaScript</a>  
 #### Backend
-- <a href="#">JavaScript</a>
 - <a href="#">Node</a>
 - <a href="#">Express</a>
 
