@@ -263,3 +263,15 @@ td:last-child {
   text-align: center;
 }
 
+.table-container td span {
+  padding: 10px;
+  background-color: var(--secondary-color);
+  color: #000000;
+  margin-right: 4px;
+  display: inline-block;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 12px;
+  letter-spacing: 3px;
+}
+
